@@ -1,3 +1,5 @@
+#### scripting doom
+
 this is a presentation i gave on scripting in the
 recent past (201304|05). it is in theory an
 intro/history to the concept of scripting. it may
