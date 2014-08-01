@@ -8,7 +8,7 @@ even make sense(^^).
 it is compiles from md through [mdpress][1] to
 html and javascript utilizing [impress.js][2].
 
-    cd scripting-dooom
+    cd scripting-doom
     mdpress -s darkcookie sdoom-im.md
     cp *jpg sdoom-im
 
