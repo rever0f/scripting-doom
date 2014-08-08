@@ -5,8 +5,8 @@ recent past (201304|05). it is in theory an
 intro/history to the concept of scripting. it may
 even make sense(^^).
 
-it is compiles from md through [mdpress][1] to
-html and javascript utilizing [impress.js][2].
+it is compiled from markdown through [mdpress][1]
+to html and javascript utilizing [impress.js][2].
 
     cd scripting-doom
     mdpress -s darkcookie sdoom-im.md
